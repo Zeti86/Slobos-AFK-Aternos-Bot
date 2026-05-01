@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node1.aternos.org:12345",
+    "ip": "node1.aternos.org",
     "port": 49123,
     "version": "1.21",
     "try-creative": false
