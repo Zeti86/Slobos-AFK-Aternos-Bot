@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node1.aternos.org",
+    "ip": "Dvtk.aternos.me",
     "port": 49123,
     "version": "1.21",
     "try-creative": false
