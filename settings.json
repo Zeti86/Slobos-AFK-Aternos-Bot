@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dvtk.aternos.me:49123",
+    "ip": "Dvtk.aternos.me",
     "port": 49123,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
